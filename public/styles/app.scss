@@ -1,0 +1,24 @@
+/*@import url("/assets/fonts/fa-solid-900.woff2")*/
+@font-face {
+  font-family: font awesome;
+  src: url(/assets/fonts/fa-solid-900.woff2);
+}
+* {
+	font-family: "font awesome";
+}
+
+.nav {
+	position: absolute;
+	width: 200px;
+	display: flex;
+	flex-direction: column;
+	padding: 20px;
+	height: 100vh;
+	background: rgb(7, 34, 59);
+	color: #fff;
+	font: 
+}
+
+.nav-item {
+	padding: 20px;
+}
